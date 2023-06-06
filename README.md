@@ -10,3 +10,5 @@ This is a real-time chat application built with Socket.io in Node.js. It allows 
 * Express: A minimal web application framework for Node.js used to handle HTTP requests and routes.
 * HTML/CSS: The application uses HTML for the structure and CSS for styling the chat interface.
 * JavaScript: The primary language used for the client-side functionality and interactions.
+
+# Netlify link: https://idyllic-pastelito-39e837.netlify.app
